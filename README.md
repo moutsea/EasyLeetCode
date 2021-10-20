@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Coder梁-green)](#公众号)
 [![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue)](https://www.zhihu.com/people/coderliangt)
-[![](https://img.shields.io/badge/bilibili-%E5%A4%B4%E6%9D%A1-orange)](https://space.bilibili.com/266569818)
+[![](https://img.shields.io/badge/bilibili-B站-orange)](https://space.bilibili.com/266569818)
 
 ## 目录
 
