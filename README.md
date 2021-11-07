@@ -13,7 +13,8 @@ C++ 相关文章每天一更，LeetCode 题解一周一更或两更<br>
 
 ### LeetCode
 
-- [1-两数之和](./LeetCode/01.md)
+- [1-两数之和](./LeetCode/01-two%20sum.md)
+- [2-两数相加](./LeetCode/02-add%20two%20number.md)
 
 ### C++
 
