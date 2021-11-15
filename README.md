@@ -47,6 +47,7 @@ C++ 相关文章每天一更，LeetCode 题解一周一更或两更<br>
 - [26-switch 语句](./C++/26-switch语句.md)
 - [27-break 和 continue 语句](./C++/27-break和continue语句.md)
 - [28-指针和 const](./C++/28-指针和const.md)
+- [29-函数指针](./C++/29-函数指针.md)
 
 #### 公众号
 
