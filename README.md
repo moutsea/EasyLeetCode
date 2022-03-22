@@ -16,6 +16,11 @@ C++ 相关文章每天一更，LeetCode 题解一周一更或两更<br>
 
 - [1-两数之和](./LeetCode/01-two%20sum.md)
 - [2-两数相加](./LeetCode/02-add%20two%20number.md)
+- [4-寻找两个正序数组的中位数](./LeetCode/04-median%20of%20two%20sorted%20arrays.md)
+- [5-最长回文子串](./LeetCode/05-longest%20palindromic%20substring.md)
+- [10-正则表达式匹配](./LeetCode/10-regular%20expression%20matching.md)
+- [11-盛最多水的容器](./LeetCode/11-container%20with%20most%20water.md)
+- [15-三数之和](./LeetCode/15-3sum.md)
 
 ### C++
 
